@@ -54,7 +54,6 @@ preview2 milestone, we'll plan to have a separate tool handle that.
  - cc argument
     - (default) => static executable (again, for now)
     - "-shared" => "dll" ("shared" is an unfortunate name, but keep it for compatibility?)
- - There is no need for -fpic/-fPIC/-fpie/-fPIE
  - TODO: Should we have a way to produce dynamic executables?
 
 # What standard library roles should we define?
